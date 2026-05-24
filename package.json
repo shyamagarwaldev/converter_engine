@@ -1,5 +1,5 @@
 {
-  "name": "jsontots_engine",
+  "name": "converter_engine",
   "module": "index.ts",
   "type": "module",
   "private": true,
