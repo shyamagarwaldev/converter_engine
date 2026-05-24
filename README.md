@@ -1,15 +1,4 @@
-# jsontots_engine
+## Todo
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.3.11. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+    - Not using generated interface which has same name and but at differnt level
+    - " | " --> based on this applying [], too fragile change this.
